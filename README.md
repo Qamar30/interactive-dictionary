@@ -12,7 +12,7 @@ import difflib
 The data is in .json format, which is included in the file as dictionary.json.
 
 # Run All Together
-Run  python3 dictionary.app.p3 in your command shell
+Run  python3 dictionary.app.py in your command shell
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details
